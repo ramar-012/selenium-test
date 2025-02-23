@@ -1,0 +1,21 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment folder (you can replace 'venv' with your actual folder name if different)
+venv/
+env/
+.venv/
+
+# VS Code settings folder
+.vscode/
+
+# IDE files (for other IDEs like PyCharm, etc.)
+.idea/
+
+# Log files
+*.log
+
+# Local environment files
+*.env
